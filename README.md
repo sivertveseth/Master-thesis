@@ -4,7 +4,7 @@ This thesis examined whether visually assessed laryngeal obstruction was associa
 
 ## Folder structure
 - **R**/ — Contains all R scripts used for data cleaning, statistical analyses, and figure generation. Scripts are numbered in the oder they should be run.
-- **figures**/ — Contains all figures used in the thesis in .png format.
+- **figures**/ — Contains all figures used in the thesis in .png format. Not all figures were generated in R - some were created in Canva or draw.io and are included here for completeness. 
 
 ## Notes on reproducibility 
 Tables were generated in R but formatted manually in Word for the final thesis.
