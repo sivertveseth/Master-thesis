@@ -3,8 +3,8 @@
 This thesis examined whether visually assessed laryngeal obstruction was associated with exercise performance, and  explored corresponding physiological responses. 
 
 ## Folder structure
-- R: Contains all R scripts used for data cleaning, statistical analyses, and figure generation. Scripts are numbered in the oder they should be run.
-- figures: Contains all figures used in the thesis in .png format.
+- **R** — Contains all R scripts used for data cleaning, statistical analyses, and figure generation. Scripts are numbered in the oder they should be run.
+- **figures**/ — Contains all figures used in the thesis in .png format.
 
 ## Notes on reproducibility 
 Tables were generated in R but formatted manually in Word for the final thesis.
